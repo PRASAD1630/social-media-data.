@@ -149,7 +149,10 @@ It enables better **data-driven decision-making** for social media analytics.
 ## 👨‍💻 Author
 
 **Your Name**  
-B.Tech AI & ML  
+B . prasad  AI & ML  
+
+guide :
+Mr Panigrahi Srikanth
 
 ---
 
